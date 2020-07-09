@@ -29,6 +29,6 @@
 
 - 🔭 I’m currently working on the v2 of the [Front-End Checklist](https://frontendchecklist.io/), some improvements on [HTMLHint](https://github.com/htmlhint/HTMLHint) and my new blog using GatsbyJS.
 
-- 📫 Reach me on at [@thedaviddias](https://twitter.com/thedaviddias)!
+- 📫 Reach me at [@thedaviddias](https://twitter.com/thedaviddias)!
 
 
