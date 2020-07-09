@@ -27,9 +27,8 @@
 </p>
 
 
-- 🔭 I’m currently working on the v2 of the [Front-End Checklist](https://frontendchecklist.io/), [HTMLHint](https://github.com/htmlhint/HTMLHint) and my new blog with GatsbyJS
+- 🔭 I’m currently working on the v2 of the [Front-End Checklist](https://frontendchecklist.io/), some improvements on [HTMLHint](https://github.com/htmlhint/HTMLHint) and my new blog using GatsbyJS.
 
-
-📫 Reach me on at [@thedaviddias](https://twitter.com/thedaviddias)!
+- 📫 Reach me on at [@thedaviddias](https://twitter.com/thedaviddias)!
 
 
