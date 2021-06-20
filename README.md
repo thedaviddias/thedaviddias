@@ -10,10 +10,8 @@ I'm always trying to find new guests for the podcast [World Web Stories](https:/
 ## 📫 How to reach me
 
 * 🔗 I have a personal website at [https://thedaviddias.dev](https://thedaviddias.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
-* 🐦 [@thedaviddias](https://twitter.com/thedaviddias)
 * 💬 [Telegram](https://t.me/thedaviddias)
 * 📹 [Subscribe to my Youtube channel](https://www.youtube.com/channel/UCXYs_tVa-VFm5f6bWrPybhA?sub_confirmation=1)
-* 📧 You can also send me an [email](mailto:hello@thedaviddias.dev)
 
 ## 🎙 Latest podcast episodes
 ### Erreur 200 (in French)
