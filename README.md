@@ -38,6 +38,8 @@ These are my latest posts on [Medium](https://medium.com/@thedaviddias), [my blo
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [9 Best Practices & UX improvements for the two-factor authentication  (2FA)](https://dev.to/thedaviddias/9-best-practices-ux-improvements-for-the-two-factor-authentication-2fa-50m6)
+- [How to deploy your Next.js app on Netlify using Github Actions](https://dev.to/thedaviddias/how-to-deploy-your-next-js-app-on-netlify-using-github-actions-14bn)
 <!-- DEVTO:END -->
 
 ### Medium
