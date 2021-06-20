@@ -36,12 +36,12 @@ jobs:
           comment_tag_name: BLOG
           feed_list: "https://thedaviddias.dev/rss.xml"
 
-      - name: Dev.to
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: 3
-          comment_tag_name: DEVTO
-          feed_list: "https://dev.to/feed/thedaviddias"
+      # - name: Dev.to
+      #   uses: gautamkrishnar/blog-post-workflow@master
+      #   with:
+      #     max_post_count: 3
+      #     comment_tag_name: DEVTO
+      #     feed_list: "https://dev.to/feed/thedaviddias"
 
       - name: Medium
         uses: gautamkrishnar/blog-post-workflow@master
