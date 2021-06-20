@@ -1,0 +1,50 @@
+name: Blog workflow
+
+on:
+  push:
+    branches: ["main", "master"]
+  workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest podcast episodes and blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      # - name: World Web Stories
+      #   uses: gautamkrishnar/blog-post-workflow@master
+      #   with:
+      #     max_post_count: 3
+      #     comment_tag_name: WWS
+      #     feed_list: "https://worldwebstories.com/rss.xml"
+
+      - name: Erreur 200
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 3
+          comment_tag_name: ERREUR200
+          feed_list: "https://erreur200.com/rss.xml"
+
+      - name: Blog
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 3
+          comment_tag_name: BLOG
+          feed_list: "https://thedaviddias.dev/rss.xml"
+
+      - name: Dev.to
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 3
+          comment_tag_name: DEVTO
+          feed_list: "https://dev.to/feed/thedaviddias"
+
+      - name: Medium
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: MEDIUM
+          feed_list: "https://medium.com/feed/@thedaviddias"
