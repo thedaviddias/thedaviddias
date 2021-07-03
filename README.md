@@ -23,7 +23,7 @@ I'm always trying to find new guests for the podcast [World Web Stories](https:/
 <!-- ERREUR200:END -->
 ## 📝  Latest Blog Posts
 
-These are my latest posts on [my blog](https://thedaviddias.dev) and [Medium](https://medium.com/@thedaviddias). I also write on [Dev.to](https://dev.to/thedaviddias):
+These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) and [Medium](https://medium.com/@thedaviddias). I also write on [Dev.to](https://dev.to/thedaviddias):
 
 ### My Blog
 
