@@ -17,9 +17,9 @@ I'm always trying to find new guests for the podcast [World Web Stories](https:/
 ### Erreur 200 (in French)
 
 <!-- ERREUR200:START -->
+- [03: La Jamstack](https://erreur200.com/la-jamstack)
 - [02: Matthieu Cneude, le développeur Mouseless immigré à Berlin](https://erreur200.com/matthieu-cneude-developpeur-mouseless-immigre-berlin)
 - [01: Le télétravail pour les développeurs web](https://erreur200.com/teletravail-developpeurs-web-bonheur-galere)
-- [00: Prologue](https://erreur200.com/prologue)
 <!-- ERREUR200:END -->
 ## 📝  Latest Blog Posts
 
