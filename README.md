@@ -37,7 +37,7 @@ These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=githu
 <!-- MEDIUM:START -->
 - [How Front-End Developers, Web and UX/UI Designers could better collaborate together?](https://thedaviddias.medium.com/how-front-end-developers-web-and-ux-ui-designers-could-better-collaborate-together-8fb63edd0694?source=rss-7ae18a1470a9------2)
 - [I launched a new podcast called “World Web Stories” and I want you all to be part of it!](https://thedaviddias.medium.com/i-launched-a-new-podcast-called-world-web-stories-and-i-want-you-all-to-be-part-of-it-b8b91106693?source=rss-7ae18a1470a9------2)
-- [What makes a great two-factor authentication (2FA)?](https://uxdesign.cc/9-best-practices-ux-improvements-for-the-two-factor-authentication-2fa-7d70f613f558?source=rss-7ae18a1470a9------2)
+- [What makes a great two-factor authentication &lpar;2FA&rpar;?](https://uxdesign.cc/9-best-practices-ux-improvements-for-the-two-factor-authentication-2fa-7d70f613f558?source=rss-7ae18a1470a9------2)
 - [You have something in YOU that the world needs](https://thedaviddias.medium.com/you-have-something-in-you-that-the-world-needs-3347f7a5fa2a?source=rss-7ae18a1470a9------2)
 - [Des délais d’attente interminables: l’hôpital de Trousseau à Tours va mal… et on en parle pas…](https://thedaviddias.medium.com/des-d%C3%A9lais-dattente-interminables-l-h%C3%B4pital-de-trousseau-%C3%A0-tours-va-mal-et-on-en-parle-pas-6084d1db8e95?source=rss-7ae18a1470a9------2)
 <!-- MEDIUM:END -->
