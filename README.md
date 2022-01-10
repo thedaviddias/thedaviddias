@@ -1,4 +1,4 @@
-# Hi there 👋, I'm David Dias! 🇫🇷 🇵🇹 🇧🇷 🇲🇺 📍 🇨🇦
+# Hi there, I'm David Dias! 🇫🇷 🇵🇹 🇧🇷 🇲🇺 📍 Now living in 🇨🇦
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thedaviddias?label=Follow)](https://twitter.com/thedaviddias)
 [![Linkedin: thedaviddias](https://img.shields.io/badge/-David%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thedaviddias/)](https://www.linkedin.com/in/thedaviddias/)
@@ -12,6 +12,13 @@ I'm always trying to find new guests for the podcast [World Web Stories](https:/
 * 🔗 I have a personal website at [https://thedaviddias.dev](https://thedaviddias.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
 * 💬 [Telegram](https://t.me/thedaviddias)
 * 📹 [Subscribe to my Youtube channel](https://www.youtube.com/channel/UCXYs_tVa-VFm5f6bWrPybhA?sub_confirmation=1)
+
+## 👋 If you need some advices or mentorship
+
+Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance.
+Don't be surprised, it's just what I love doing!
+
+👉 **Feel free to request an appointement on https://adplist.org/mentors/david-dias and if you speak French, on https://app.myjobglasses.com/professionals/5b92667ce3359b55e4952b97**
 
 ## 🎙 Latest podcast episodes
 ### Erreur 200 (in French)
