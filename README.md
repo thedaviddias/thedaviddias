@@ -18,7 +18,7 @@ I'm always trying to find new guests for the podcast [World Web Stories](https:/
 Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance.
 Don't be surprised, it's just what I love doing!
 
-👉 **Feel free to request an appointement on https://adplist.org/mentors/david-dias and if you speak French, on https://app.myjobglasses.com/professionals/5b92667ce3359b55e4952b97**
+👉 **Feel free to request an appointement on [ADPlist](https://ddias.run/adp) and if you speak French, on [MyJobGlasses](https://ddias.run/myjobglasses)**
 
 ## 🎙 Latest podcast episodes
 ### Erreur 200 (in French)
@@ -30,7 +30,7 @@ Don't be surprised, it's just what I love doing!
 <!-- ERREUR200:END -->
 ## 📝  Latest Blog Posts
 
-These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) and [Medium](https://medium.com/@thedaviddias). I also write on [Dev.to](https://dev.to/thedaviddias):
+These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) and [Medium](https://ddias.run/medium). I also write on [Dev.to](https://ddias.run/devto):
 
 ### My Blog
 
