@@ -24,9 +24,9 @@ Don't be surprised, it's just what I love doing!
 ### Erreur 200 (in French)
 
 <!-- ERREUR200:START -->
-- [05: Comment devenir un développeur web en 2022 &lpar;1&rpar;](https://erreur200.com/devenir-developpeur-web-2022-1)
-- [04: Les bases de TypeScript](https://erreur200.com/les-bases-de-typescript)
-- [03: La Jamstack](https://erreur200.com/la-jamstack)
+- [Comment devenir un développeur web en 2022 &lpar;2&rpar;](https://erreur200.com/devenir-developpeur-web-2022-2)
+- [Comment devenir un développeur web en 2022 &lpar;1&rpar;](https://erreur200.com/devenir-developpeur-web-2022-1)
+- [Les bases de TypeScript](https://erreur200.com/les-bases-de-typescript)
 <!-- ERREUR200:END -->
 ## 📝  Latest Blog Posts
 
