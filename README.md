@@ -24,9 +24,9 @@ Don't be surprised, it's just what I love doing!
 ### Erreur 200 (in French)
 
 <!-- ERREUR200:START -->
+- [La Communication Dans Le Monde Du Web](https://erreur200.com/la-communication-dans-le-monde-du-web)
 - [Apprentissage et Veille Technologique au quotidien](https://erreur200.com/apprentissage-et-veille-technologique-au-quotidien)
 - [Comment devenir un développeur web en 2022 &lpar;2&rpar;](https://erreur200.com/devenir-developpeur-web-2022-2)
-- [Comment devenir un développeur web en 2022 &lpar;1&rpar;](https://erreur200.com/devenir-developpeur-web-2022-1)
 <!-- ERREUR200:END -->
 ## 📝  Latest Blog Posts
 
