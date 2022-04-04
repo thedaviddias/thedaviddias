@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/thedaviddias?label=Follow)](https://twitter.com/thedaviddias)
 [![Linkedin: thedaviddias](https://img.shields.io/badge/-David%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thedaviddias/)](https://www.linkedin.com/in/thedaviddias/)
 
-I'm **David Dias** (he/him). I'm a Front-End Software Engineer by passion and an expat by choice living now in Toronto, Canada. I created the [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) in 2017 and have been passionate about open-source since. I'm also an accessibility advocate! I'm always working on a new project to help the community.
+I'm **David Dias** (he/him). I'm a Front-End Software Engineer by passion and an expat by choice living now in Toronto, Canada. I created the [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) in 2017 and have been passionate about open-source since. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)! I'm always working on a new project to help the community.
 
 I'm always trying to find new guests for the podcast [World Web Stories](https://worldwebstories.com/), feel free to [ask to be a guest](https://worldwebstories.com/be-a-guest/)!
 
