@@ -18,7 +18,7 @@ I'm always trying to find new guests for the podcast [World Web Stories](https:/
 Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance.
 Don't be surprised, it's just what I love doing!
 
-👉 **Feel free to request an appointement on [ADPlist](https://ddias.run/adp) or on [MyJobGlasses](https://ddias.run/myjobglasses)**
+👉 **Feel free to request an appointement on [ADPlist](https://ddias.run/adp)**
 
 ## 🎙 Latest podcast episodes
 ### Erreur 200 (in French)
