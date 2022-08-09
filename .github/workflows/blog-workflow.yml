@@ -34,7 +34,7 @@ jobs:
         with:
           max_post_count: 3
           comment_tag_name: BLOG
-          feed_list: "https://thedaviddias.dev/rss.xml"
+          feed_list: "https://thedaviddias.dev/rss/feed.xml"
 
       # - name: Dev.to
       #   uses: gautamkrishnar/blog-post-workflow@master
