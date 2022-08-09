@@ -32,7 +32,7 @@ jobs:
       - name: Blog
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: 3
+          max_post_count: 5
           comment_tag_name: BLOG
           feed_list: "https://thedaviddias.dev/rss/feed.xml"
 
