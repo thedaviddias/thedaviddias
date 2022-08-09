@@ -35,9 +35,9 @@ These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=githu
 ### My Blog
 
 <!-- BLOG:START -->
-- [9 Best Practices &amp; UX Improvements for the two-factor authentication  &lpar;2FA&rpar;](https://thedaviddias.dev/blog/9-best-practices-ux-for-two-factor-authentification/)
-- [How to deploy your Next.js app on Netlify using Github Actions](https://thedaviddias.dev/blog/how-to-deploy-your-nextjs-app-on-netlify-using-github-actions/)
-- [What I learned about my side project and myself after presenting at meetups in Europe](https://thedaviddias.dev/blog/what-i-learned-about-side-project-presenting-meetups-europe/)
+- [How to fix &quot;postbuild&quot; and &quot;prebuild&quot; not working with pnpm?](https://thedaviddias.dev/notes/how-to-fix-post-pre-build-pnpm)
+- [Finally received my Steam Deck confirmation email!](https://thedaviddias.dev/notes/finally-received-steam-deck-confirmation-email)
+- [How Front-End Developers, Web and UX/UI Designers could better collaborate together?](https://thedaviddias.dev/articles/how-front-end-developers-ui-ux-could-better-collaborate-together)
 <!-- BLOG:END -->
 ### Medium
 
