@@ -41,11 +41,11 @@ These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=githu
 ### My Blog
 
 <!-- BLOG:START -->
+- [How to fix &quot;set-output&quot; when reading nvmrc from the GitHub Actions?](https://thedaviddias.dev/notes/how-to-fix-set-output-nvmrc-github-actions)
 - [How to fix &quot;postbuild&quot; and &quot;prebuild&quot; not working with pnpm?](https://thedaviddias.dev/notes/how-to-fix-post-pre-build-pnpm)
 - [Finally received my Steam Deck confirmation email!](https://thedaviddias.dev/notes/finally-received-steam-deck-confirmation-email)
 - [How Front-End Developers, Web and UX/UI Designers could better collaborate together?](https://thedaviddias.dev/articles/how-front-end-developers-ui-ux-could-better-collaborate-together)
 - [9 Best Practices &amp; UX Improvements for the two-factor authentication &lpar;2FA&rpar;](https://thedaviddias.dev/articles/9-best-practices-ux-for-two-factor-authentification)
-- [How to deploy your Next.js app on Netlify using Github Actions](https://thedaviddias.dev/articles/how-to-deploy-your-nextjs-app-on-netlify-using-github-actions)
 <!-- BLOG:END -->
 ### Medium
 
