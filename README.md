@@ -61,7 +61,7 @@ These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=githu
 ### Erreur 200 (in French)
 
 <!-- ERREUR200:START -->
+- [Questions de débutants en développement web avec Killian Vaillant](https://erreur200.com/questions-de-debutants-en-developpement-web-avec-killian-vaillant)
 - [Les Tendances du Développement Web en 2022](https://erreur200.com/les-tendances-du-developpement-web-en-2022)
 - [La Communication Dans Le Monde Du Web](https://erreur200.com/la-communication-dans-le-monde-du-web)
-- [Apprentissage et Veille Technologique au quotidien](https://erreur200.com/apprentissage-et-veille-technologique-au-quotidien)
 <!-- ERREUR200:END -->
