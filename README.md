@@ -42,7 +42,7 @@ These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=githu
 
 <!-- BLOG:START -->
 - [Beyond User Testing: Leveraging Frontend Experience](https://thedaviddias.dev/articles/beyond-user-testing-leveraging-frontend-experience)
-- [Stop using the &lt;hr&gt; tag to design a horizontal line!](https://thedaviddias.dev/notes/stop-using-thematic-break-to-design-horizontal-line)
+- [Stop using the &quot;&lt;hr/&gt;&quot; tag to design a horizontal line!](https://thedaviddias.dev/notes/stop-using-thematic-break-to-design-horizontal-line)
 - [How to fix &quot;set-output&quot; when reading nvmrc from the GitHub Actions?](https://thedaviddias.dev/notes/how-to-fix-set-output-nvmrc-github-actions)
 - [How to fix &quot;postbuild&quot; and &quot;prebuild&quot; not working with pnpm?](https://thedaviddias.dev/notes/how-to-fix-post-pre-build-pnpm)
 - [Finally received my Steam Deck confirmation email!](https://thedaviddias.dev/notes/finally-received-steam-deck-confirmation-email)
