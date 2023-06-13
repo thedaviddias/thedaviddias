@@ -41,7 +41,7 @@ These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=githu
 ### My Blog
 
 <!-- BLOG:START -->
-- [Raycast Applications That Make Me a Super Developer!](https://thedaviddias.dev/articles/raycast-applications-super-developer)
+- [Raycast Applications That Will Make You a Super Developer!](https://thedaviddias.dev/articles/raycast-applications-super-developer)
 - [Beyond User Testing: Leveraging Frontend Experience](https://thedaviddias.dev/articles/beyond-user-testing-leveraging-frontend-experience)
 - [Stop using the &quot;&lt;hr/&gt;&quot; tag to design a horizontal line!](https://thedaviddias.dev/notes/stop-using-thematic-break-to-design-horizontal-line)
 - [How to fix &quot;set-output&quot; when reading nvmrc from the GitHub Actions?](https://thedaviddias.dev/notes/how-to-fix-set-output-nvmrc-github-actions)
