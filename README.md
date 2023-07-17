@@ -41,11 +41,11 @@ These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=githu
 ### My Blog
 
 <!-- BLOG:START -->
+- [My Decade in Web Development: A Personal Journey and Showcase](https://thedaviddias.dev/articles/decade-web-development-personal-journey-showcase)
 - [How to Convert MP3 to M4B for Audiobooks lovers, on MacOS?](https://thedaviddias.dev/notes/how-to-convert-mp3-to-m4b-for-audiobooks)
 - [Raycast Applications That Will Make You a Super Developer!](https://thedaviddias.dev/articles/raycast-applications-super-developer)
 - [Beyond User Testing: Leveraging Frontend Experience](https://thedaviddias.dev/articles/beyond-user-testing-leveraging-frontend-experience)
 - [Stop using the &quot;&lt;hr/&gt;&quot; tag to design a horizontal line!](https://thedaviddias.dev/notes/stop-using-thematic-break-to-design-horizontal-line)
-- [How to fix &quot;set-output&quot; when reading nvmrc from the GitHub Actions?](https://thedaviddias.dev/notes/how-to-fix-set-output-nvmrc-github-actions)
 <!-- BLOG:END -->
 ### Medium
 
