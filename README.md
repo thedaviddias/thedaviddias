@@ -43,7 +43,7 @@ These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=githu
 <!-- BLOG:START -->
 - [Release Notification Info Action](https://thedaviddias.dev/projects/release-notification-info-action)
 - [UI Patterns for developers](https://thedaviddias.dev/projects/ui-patterns-for-developers)
-- [The Ideal Desk Setup: A Personal Journey](https://thedaviddias.dev/articles/ideal-desk-setup-personal-journey)
+- [My Ideal Desk Setup: A Personal Journey](https://thedaviddias.dev/articles/ideal-desk-setup-personal-journey)
 - [The Methodology and Principle of &quot;User First&quot;](https://thedaviddias.dev/notes/methodology-principle-user-first)
 - [My Decade in Web Development: A Personal Journey and Showcase](https://thedaviddias.dev/articles/decade-web-development-personal-journey-showcase)
 <!-- BLOG:END -->
