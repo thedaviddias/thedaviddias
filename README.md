@@ -61,7 +61,7 @@ These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=githu
 ### Erreur 200 (in French)
 
 <!-- ERREUR200:START -->
+- [La Vie du Développeur : Harmoniser Travail et Loisirs](https://erreur200.com/la-vie-du-developpeur-harmoniser-travail-et-loisirs)
 - [Analytics Web, GDPR et Google Analytics](https://erreur200.com/analytics-web-gdpr-et-google-analytics)
 - [Questions de débutants en développement web avec Killian Vaillant](https://erreur200.com/questions-de-debutants-en-developpement-web-avec-killian-vaillant)
-- [Les Tendances du Développement Web en 2022](https://erreur200.com/les-tendances-du-developpement-web-en-2022)
 <!-- ERREUR200:END -->
