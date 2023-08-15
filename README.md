@@ -61,7 +61,7 @@ These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=githu
 ### Erreur 200 (in French)
 
 <!-- ERREUR200:START -->
+- [Chat GPT et l&#39;IA pour les développeurs](https://erreur200.com/chat-gpt-ia-developpeurs)
 - [La Vie du Développeur : Harmoniser Travail et Loisirs](https://erreur200.com/la-vie-du-developpeur-harmoniser-travail-et-loisirs)
 - [Analytics Web, GDPR et Google Analytics](https://erreur200.com/analytics-web-gdpr-et-google-analytics)
-- [Questions de débutants en développement web avec Killian Vaillant](https://erreur200.com/questions-de-debutants-en-developpement-web-avec-killian-vaillant)
 <!-- ERREUR200:END -->
