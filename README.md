@@ -64,7 +64,7 @@ These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=githu
 ### Erreur 200 (in French)
 
 <!-- ERREUR200:START -->
+- [Syndrome de L&#39;imposteur Chez Les Développeurs Web](https://erreur200.com/syndrome-de-l-imposteur-chez-les-developpeurs-web)
 - [Chat GPT et l&#39;IA pour les développeurs](https://erreur200.com/chat-gpt-ia-developpeurs)
 - [La Vie du Développeur : Harmoniser Travail et Loisirs](https://erreur200.com/la-vie-du-developpeur-harmoniser-travail-et-loisirs)
-- [Analytics Web, GDPR et Google Analytics](https://erreur200.com/analytics-web-gdpr-et-google-analytics)
 <!-- ERREUR200:END -->
