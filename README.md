@@ -64,7 +64,7 @@ These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=githu
 ### Erreur 200 (in French)
 
 <!-- ERREUR200:START -->
+- [Les monorepos](https://erreur200.com/les-monorepos)
 - [Les ETLs, Kafka et Confluent avec Fred Cecilia](https://erreur200.com/etl-kafka-confluent)
 - [Syndrome de L&#39;imposteur Chez Les Développeurs Web](https://erreur200.com/syndrome-de-l-imposteur-chez-les-developpeurs-web)
-- [Chat GPT et l&#39;IA pour les développeurs](https://erreur200.com/chat-gpt-ia-developpeurs)
 <!-- ERREUR200:END -->
