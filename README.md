@@ -28,15 +28,6 @@ I created the [Front-End Checklist](https://github.com/thedaviddias/Front-End-Ch
 
 * 🔗 I have a personal website at [https://thedaviddias.com](https://ddias.run) where all my social networks are located! You can reach me anywhere over there!
 
-## 👋 If you need some advices or mentorship
-
-Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance.
-Don't be surprised, it's just what I love doing!
-
-👉 **Feel free to request an appointement on [ADPlist](https://ddias.run/adp)**
-
-[![Join me!](./assets/front-end-coders-banner-join.png 'Join the community on Polywork')](https://poly.club/front-end-coders)
-
 ## 📝  Latest Blog Posts
 
 These are my latest posts on [my blog](https://ddias.run) and [Medium](https://ddias.run/medium). I also write on [Dev.to](https://ddias.run/devto):
