@@ -26,7 +26,7 @@ I created the [Front-End Checklist](https://github.com/thedaviddias/Front-End-Ch
 
 ## 📫 How to reach me
 
-* 🔗 I have a personal website at [https://thedaviddias.dev](https://thedaviddias.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
+* 🔗 I have a personal website at [https://thedaviddias.com](https://ddias.run) where all my social networks are located! You can reach me anywhere over there!
 
 ## 👋 If you need some advices or mentorship
 
@@ -39,7 +39,7 @@ Don't be surprised, it's just what I love doing!
 
 ## 📝  Latest Blog Posts
 
-These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) and [Medium](https://ddias.run/medium). I also write on [Dev.to](https://ddias.run/devto):
+These are my latest posts on [my blog](https://ddias.run) and [Medium](https://ddias.run/medium). I also write on [Dev.to](https://ddias.run/devto):
 
 ### My Blog
 
