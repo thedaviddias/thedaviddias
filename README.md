@@ -4,14 +4,8 @@
    <a href="[https://twitter.com/thedaviddias](https://discord.gg/EG6tmxsESP)">
      <img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white&countColor=white" alt="Discord badge" />
   </a>&nbsp;&nbsp;
-   <a href="https://twitter.com/thedaviddias">
-     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" alt="Twitter badge" />
-  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thedaviddias">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/thedaviddias">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@TheDavidDias">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube badge" />
