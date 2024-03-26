@@ -49,7 +49,7 @@ These are my latest posts on [my blog](https://ddias.run) and [Medium](https://d
 ### Erreur 200 (in French)
 
 <!-- ERREUR200:START -->
+- [La sécurité et la vie privée au quotidien](https://erreur200.com/la-securite-et-la-vie-privee-au-quotidien)
 - [Les monorepos](https://erreur200.com/les-monorepos)
 - [Les ETLs, Kafka et Confluent avec Fred Cecilia](https://erreur200.com/etl-kafka-confluent)
-- [Syndrome de L&#39;imposteur Chez Les Développeurs Web](https://erreur200.com/syndrome-de-l-imposteur-chez-les-developpeurs-web)
 <!-- ERREUR200:END -->
