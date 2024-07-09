@@ -22,6 +22,13 @@ I created the [Front-End Checklist](https://github.com/thedaviddias/Front-End-Ch
 
 * 🔗 I have a personal website at [https://thedaviddias.com](https://ddias.run) where all my social networks are located! You can reach me anywhere over there!
 
+## 📚 Book
+
+I'm currently writing a book for web developers: "Essential Tips for Junior Developers"
+
+I'm currently writing the first draft that you will find https://leanpub.com/essentialtipsforjuniordevelopers
+Feel free to subscribe to receive updates and notifications when it'll be published!
+
 ## 📝  Latest Blog Posts
 
 These are my latest posts on [my blog](https://ddias.run) and [Medium](https://ddias.run/medium). I also write on [Dev.to](https://ddias.run/devto):
