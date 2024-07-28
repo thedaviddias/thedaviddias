@@ -37,10 +37,10 @@ These are my latest posts on [my blog](https://ddias.run) and [Medium](https://d
 
 <!-- BLOG:START -->
 - [How To Block ChatGPT form Scraping and Parsing your Website?](https://thedaviddias.com/notes/how-to-block-chatgpt-form-scraping-and-parsing-your-website)
-- [Release Notification Info Action](https://thedaviddias.com/projects/release-notification-info-action)
-- [UI Patterns for developers](https://thedaviddias.com/projects/ui-patterns-for-developers)
 - [My Ideal Desk Setup: A Personal Journey](https://thedaviddias.com/articles/ideal-desk-setup-personal-journey)
 - [The Philosophy and Approach of &quot;User First&quot;](https://thedaviddias.com/notes/philosophy-approach-user-first)
+- [My Decade in Web Development: A Personal Journey and Showcase](https://thedaviddias.com/articles/decade-web-development-personal-journey-showcase)
+- [How to Convert MP3 to M4B for Audiobooks lovers, on MacOS?](https://thedaviddias.com/notes/how-to-convert-mp3-to-m4b-for-audiobooks)
 <!-- BLOG:END -->
 ### Medium
 
