@@ -16,11 +16,11 @@ I'm **David Dias** (he/him) 🇫🇷 🇵🇹 🇧🇷 🇲🇺 📍 now living 
 
 I'm a Front-End Software Engineer by passion and an expat by choice living now in Toronto, Canada.
 
-I created the [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) in 2017 and have been passionate about open-source since. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)! I'm always working on a new project to help the community.
+I created the [Front-End Checklist](https://git.new/frontendchecklist) in 2017 and have been passionate about open-source since. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)! I'm always working on a new project to help the community.
 
 ## 📫 How to reach me
 
-* 🔗 I have a personal website at [https://thedaviddias.com](https://ddias.run) where all my social networks are located! You can reach me anywhere over there!
+* 🔗 I have a personal website at [https://thedaviddias.com](https://ddias.link/blog) where all my social networks are located! You can reach me anywhere over there!
 
 ## 📚 Book
 
@@ -31,7 +31,7 @@ Feel free to subscribe to receive updates and notifications when it'll be publis
 
 ## 📝  Latest Blog Posts
 
-These are my latest posts on [my blog](https://ddias.run) and [Medium](https://ddias.run/medium). I also write on [Dev.to](https://ddias.run/devto):
+These are my latest posts on [my blog](https://ddias.link/blog) and [Medium](https://ddias.link/medium). I also write on [Dev.to](https://ddias.link/devto):
 
 ### My Blog
 
