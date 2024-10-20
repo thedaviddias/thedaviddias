@@ -12,21 +12,20 @@
   </a>&nbsp;&nbsp;
 </p>
 
-I'm **David Dias** (he/him) 🇫🇷 🇵🇹 🇧🇷 🇲🇺 📍 now living in 🇨🇦.
+I'm **David Dias** (he/him), I'm a French-born 🇫🇷 Canadian 🇨🇦 with Portuguese 🇵🇹 heritage living in Toronto, Canada.
 
-I'm a Front-End Software Engineer by passion and an expat by choice living now in Toronto, Canada.
+I'm a Front-End Software Engineer by passion and focus on helping others to find their way through the complexities of web development.
 
 I created the [Front-End Checklist](https://git.new/frontendchecklist) in 2017 and have been passionate about open-source since. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)! I'm always working on a new project to help the community.
 
 ## 📫 How to reach me
 
-* 🔗 I have a personal website at [https://thedaviddias.com](https://ddias.link/blog) where all my social networks are located! You can reach me anywhere over there!
+* 🔗 I have a [personal website](https://ddias.link/blog) where all my social networks are located! You can reach me anywhere over there!
 
 ## 📚 Book
 
-I'm currently writing a book for web developers: "Essential Tips for Junior Developers"
+I'm currently writing a book for web developers: "[Essential Tips for Junior Developers](https://ddias.link/book)"
 
-I'm currently writing the first draft that you will find https://leanpub.com/essentialtipsforjuniordevelopers
 Feel free to subscribe to receive updates and notifications when it'll be published!
 
 ## 📝  Latest Blog Posts
