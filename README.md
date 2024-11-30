@@ -36,10 +36,10 @@ These are my latest posts on [my blog](https://ddias.link/blog) and [Medium](htt
 
 <!-- BLOG:START -->
 - [Links Base](https://thedaviddias.com/projects/links-base)
+- [Indie Dev Toolkit](https://thedaviddias.com/projects/indie-dev-toolkit)
+- [Erreur 200](https://thedaviddias.com/projects/erreur-200)
 - [How To Block ChatGPT form Scraping and Parsing your Website?](https://thedaviddias.com/notes/how-to-block-chatgpt-form-scraping-and-parsing-your-website)
 - [My Ideal Desk Setup: A Personal Journey](https://thedaviddias.com/articles/ideal-desk-setup-personal-journey)
-- [The Philosophy and Approach of &quot;User First&quot;](https://thedaviddias.com/notes/philosophy-approach-user-first)
-- [My Decade in Web Development: A Personal Journey and Showcase](https://thedaviddias.com/articles/decade-web-development-personal-journey-showcase)
 <!-- BLOG:END -->
 ### Medium
 
