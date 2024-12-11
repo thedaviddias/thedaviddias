@@ -18,6 +18,8 @@ I'm a Front-End Software Engineer by passion and focus on helping others to find
 
 I created the [Front-End Checklist](https://git.new/frontendchecklist) in 2017 and have been passionate about open-source since. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)! I'm always working on a new project to help the community.
 
+I've also recently launched [UX Patterns for Devs](https://git.new/uxpatterns)! Feel free to check it out!
+
 ## 📫 How to reach me
 
 * 🔗 I have a [personal website](https://ddias.link/blog) where all my social networks are located! You can reach me anywhere over there!
