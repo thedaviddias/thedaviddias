@@ -37,11 +37,11 @@ These are my latest posts on [my blog](https://ddias.link/blog) and [Medium](htt
 ### My Blog
 
 <!-- BLOG:START -->
+- [llms.txt hub](https://thedaviddias.com/projects/llms-txt-hub)
 - [UX Patterns for Developers](https://thedaviddias.com/projects/ux-patterns-developers)
 - [Links Base](https://thedaviddias.com/projects/links-base)
 - [Indie Dev Toolkit](https://thedaviddias.com/projects/indie-dev-toolkit)
 - [Erreur 200](https://thedaviddias.com/projects/erreur-200)
-- [How To Block ChatGPT form Scraping and Parsing your Website?](https://thedaviddias.com/notes/how-to-block-chatgpt-form-scraping-and-parsing-your-website)
 <!-- BLOG:END -->
 ### Medium
 
