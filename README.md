@@ -78,7 +78,7 @@ Want to collaborate or learn more about any of these projects? Feel free to reac
 - [Getting Started with llms.txt](https://thedaviddias.medium.com/getting-started-with-llms-txt-226df8012257?source=rss-7ae18a1470a9------2)
 - [Beyond User Testing: Leveraging Frontend Experience](https://thedaviddias.medium.com/beyond-user-testing-leveraging-frontend-experience-d694e9915960?source=rss-7ae18a1470a9------2)
 - [How Front-End Developers, Web and UX/UI Designers could better collaborate together?](https://thedaviddias.medium.com/how-front-end-developers-web-and-ux-ui-designers-could-better-collaborate-together-8fb63edd0694?source=rss-7ae18a1470a9------2)
-- [I launched a new podcast called "World Web Stories" and I want you all to be part of it!](https://thedaviddias.medium.com/i-launched-a-new-podcast-called-world-web-stories-and-i-want-you-all-to-be-part-of-it-b8b91106693?source=rss-7ae18a1470a9------2)
+- [I launched a new podcast called “World Web Stories” and I want you all to be part of it!](https://thedaviddias.medium.com/i-launched-a-new-podcast-called-world-web-stories-and-i-want-you-all-to-be-part-of-it-b8b91106693?source=rss-7ae18a1470a9------2)
 <!-- MEDIUM:END -->
 
 ## 🤝 Let's Connect
