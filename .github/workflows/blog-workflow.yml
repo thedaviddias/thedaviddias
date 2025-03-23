@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 6 * * 4'
 
 jobs:
   update-readme-with-blog:
@@ -22,12 +22,12 @@ jobs:
       #     comment_tag_name: WWS
       #     feed_list: "https://worldwebstories.com/rss.xml"
 
-      - name: Erreur 200
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: 3
-          comment_tag_name: ERREUR200
-          feed_list: "https://erreur200.com/rss.xml"
+      # - name: Erreur 200
+      #   uses: gautamkrishnar/blog-post-workflow@master
+      #   with:
+      #     max_post_count: 3
+      #     comment_tag_name: ERREUR200
+      #     feed_list: "https://erreur200.com/rss.xml"
 
       - name: Blog
         uses: gautamkrishnar/blog-post-workflow@master
