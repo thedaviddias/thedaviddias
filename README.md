@@ -2,17 +2,17 @@
 
 <p align='center'>
    <a href="https://ddias.link/blog">
-     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Personal Website badge" />
-  </a>&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=about.me&logoColor=white" alt="Personal Website badge" />
+  </a>&nbsp;
    <a href="https://ddias.link/devto">
-     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to badge" />
-  </a>&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/dev.to-833AB4?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to badge" />
+  </a>&nbsp;
    <a href="https://ddias.link/x">
-     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter badge" />
-  </a>&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X badge" />
+  </a>&nbsp;
   <a href="https://ddias.link/linkedin">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
 <p align="center">
@@ -30,15 +30,15 @@ I'm a Front-End Software Engineer by passion and focus on helping others to find
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/thedaviddias/Front-End-Checklist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=Front-End-Checklist&theme=transparent&hide_border=true" />
+  <a href="https://github.com/thedaviddias/llms-txt-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=llms-txt-hub&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/thedaviddias/ux-patterns-for-developers">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=ux-patterns-for-developers&theme=transparent&hide_border=true" />
   </a>
 </p>
 
-I created the [Front-End Checklist](https://git.new/frontendchecklist) in 2017 and have been passionate about open-source since. With over 65k+ stars on GitHub, it helps developers build better websites by following best practices. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)!
+I created the [llms.txt hub](https://thedaviddias.com/projects/llms-txt-hub), the largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)!
 
 ## 💻 Tech I Love Working With
 
@@ -78,7 +78,7 @@ Want to collaborate or learn more about any of these projects? Feel free to reac
 - [Getting Started with llms.txt](https://thedaviddias.medium.com/getting-started-with-llms-txt-226df8012257?source=rss-7ae18a1470a9------2)
 - [Beyond User Testing: Leveraging Frontend Experience](https://thedaviddias.medium.com/beyond-user-testing-leveraging-frontend-experience-d694e9915960?source=rss-7ae18a1470a9------2)
 - [How Front-End Developers, Web and UX/UI Designers could better collaborate together?](https://thedaviddias.medium.com/how-front-end-developers-web-and-ux-ui-designers-could-better-collaborate-together-8fb63edd0694?source=rss-7ae18a1470a9------2)
-- [I launched a new podcast called “World Web Stories” and I want you all to be part of it!](https://thedaviddias.medium.com/i-launched-a-new-podcast-called-world-web-stories-and-i-want-you-all-to-be-part-of-it-b8b91106693?source=rss-7ae18a1470a9------2)
+- [I launched a new podcast called "World Web Stories" and I want you all to be part of it!](https://thedaviddias.medium.com/i-launched-a-new-podcast-called-world-web-stories-and-i-want-you-all-to-be-part-of-it-b8b91106693?source=rss-7ae18a1470a9------2)
 <!-- MEDIUM:END -->
 
 ## 🤝 Let's Connect
