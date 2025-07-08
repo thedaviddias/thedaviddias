@@ -38,7 +38,7 @@ I'm a Front-End Software Engineer by passion and focus on helping others to find
   </a>
 </p>
 
-I created the [llms.txt hub](https://thedaviddias.com/projects/llms-txt-hub), the largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)!
+I created the [llms.txt hub](https://thedaviddias.com/projects/llms-txt-hub), the largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard. I'm also an accessibility advocate!
 
 ## 💻 Tech I Love Working With
 
