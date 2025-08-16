@@ -93,7 +93,7 @@ Want to collaborate or learn more about any of these projects? Feel free to reac
 </p>
 
 - 💬 Ask me about **frontend development**, **accessibility**, or **open source**
-- 📝 I regularly write articles on [my blog](https://ddias.link/blog)
-- 🌱 I'm currently exploring **AI/ML in frontend development**
+- 📝 I regularly write articles on [my newsletter](https://thedaviddias.substack.com)
+- 🌱 I'm currently exploring **AI/ML in frontend development** and building iOS mobile apps using Swift
 
 🔗 Check out my [personal website](https://ddias.link/blog) for more content and ways to connect!
