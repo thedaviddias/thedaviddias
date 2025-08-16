@@ -3,15 +3,18 @@
 <p align='center'>
    <a href="https://thedaviddias.com">
      <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=about.me&logoColor=white" alt="Personal Website badge" />
-  </a>&nbsp;
+  </a>
+   <a href="https://www.linkedin.com/in/thedaviddias/">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+      <a href="https://www.youtube.com/@thedaviddias">
+     <img src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube badge" />
+  </a>
    <a href="https://ddias.link/devto">
      <img src="https://img.shields.io/badge/dev.to-833AB4?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to badge" />
-  </a>&nbsp;
+  </a>
    <a href="https://ddias.link/x">
      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X badge" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/thedaviddias/">
-     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
 </p>
 
