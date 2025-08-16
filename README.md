@@ -1,7 +1,7 @@
 # Hi there, I'm David Dias!
 
 <p align='center'>
-   <a href="https://ddias.link/blog">
+   <a href="https://thedaviddias.com">
      <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=about.me&logoColor=white" alt="Personal Website badge" />
   </a>&nbsp;
    <a href="https://ddias.link/devto">
@@ -10,7 +10,7 @@
    <a href="https://ddias.link/x">
      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X badge" />
   </a>&nbsp;
-  <a href="https://ddias.link/linkedin">
+  <a href="https://www.linkedin.com/in/thedaviddias/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
 </p>
@@ -54,10 +54,10 @@ I created the [llms.txt hub](https://thedaviddias.com/projects/llms-txt-hub), th
 
 Here's what I'm currently working on:
 
+- 🏯 [Goshuin Atlas](https://goshuinatlas.com) – An iOS app to explore temples and shrines in Japan and collect goshuin digitally
 - 🤖 [llms.txt hub](https://thedaviddias.com/projects/llms-txt-hub) - Standardizing LLM configurations for web projects
+- 📚 [Start & Ship and Grow and Thrive](https://practicaljuniordevs.com) - A serie of books to help junior developers navigate their career journey
 - 🔗 [Links Base](https://thedaviddias.com/projects/links-base) - A modern approach to managing and sharing bookmarks
-- 🛠️ [Indie Dev Toolkit](https://thedaviddias.com/projects/indie-dev-toolkit) - Essential resources for independent developers
-- 📚 "[Essential Tips for Junior Developers](https://ddias.link/book)" - A book to help junior developers navigate their career journey
 
 Want to collaborate or learn more about any of these projects? Feel free to reach out!
 
