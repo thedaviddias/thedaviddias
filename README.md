@@ -24,7 +24,14 @@
 
 I'm **David Dias** (he/him), I'm a French-born 🇫🇷 Canadian 🇨🇦 with Portuguese 🇵🇹 heritage living in Toronto, Canada.
 
-I'm a Front-End Software Engineer by passion and focus on helping others to find their way through the complexities of web development.
+**Former Staff Frontend Engineer exploring multi-passionate career development.** I help people in tech who, like me, refuse to be put in a professional box.
+
+After 15 years in frontend development, I'm now building **David Dias Digital** - creating resources, tools, and community for multi-passionate professionals who want to integrate their complete identity into their careers.
+
+* 🌟 **98.3K+ GitHub stars** across projects serving developers worldwide
+* 🏯 Building apps that bridge **culture & technology**
+* 📚 Writing guides for **multi-passionate professionals**
+* 🎥 Documenting the journey from **employee to entrepreneur**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thedaviddias&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub stats" />
@@ -32,16 +39,45 @@ I'm a Front-End Software Engineer by passion and focus on helping others to find
 
 ## 🚀 Featured Projects
 
+### Developer Tools & Resources
 <p align="center">
+  <a href="https://github.com/thedaviddias/Front-End-Checklist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=Front-End-Checklist&theme=transparent&hide_border=true" />
+  </a>
   <a href="https://github.com/thedaviddias/llms-txt-hub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=llms-txt-hub&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/thedaviddias/ux-patterns-for-developers">
+</p>
+
+### Cultural-Technology Integration
+- 🏯 **[Goshuin Atlas](https://goshuinatlas.com)** - iOS app bridging Japanese temple traditions with modern technology
+- 📚 **[Practical Guides Series](https://practicaljuniordevs.com/)** - A serie of books to help junior developers navigate their career journey
+
+### Community & Resources
+<p align="center">
+     <a href="https://github.com/thedaviddias/ux-patterns-for-developers">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=ux-patterns-for-developers&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/thedaviddias/indie-dev-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=indie-dev-toolkit&theme=transparent&hide_border=true" />
   </a>
 </p>
 
-I created the [llms.txt hub](https://thedaviddias.com/projects/llms-txt-hub), the largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard. I'm also an accessibility advocate!
+## 🌈 Multi-Passionate Journey
+
+I believe the future belongs to professionals who can bridge cultures, technologies, and disciplines - not just those who specialize in one narrow field.
+
+**What I'm exploring:**
+- 🎯 **Career Integration** - How to build careers that honor all your interests
+- 🌍 **Cultural-Technology Bridges** - Creating respectful innovation
+- 🚀 **Employee to Entrepreneur** - Documenting the real journey
+- 🤝 **Community Building** - Connecting like-minded multi-passionate professionals
+
+**Currently working on:**
+- 📱 Goshuin Atlas - An app that respects Japanese cultural traditions
+- 📚 "Practical Guides for Multi-Passionate Professionals" book series
+- 🎥 Content about integrated career development
+- 🌐 David Dias Digital - Platform for multi-passionate resources
 
 ## 💻 Tech I Love Working With
 
@@ -53,16 +89,7 @@ I created the [llms.txt hub](https://thedaviddias.com/projects/llms-txt-hub), th
   <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
 </p>
 
-## 🛠️ Active Projects
-
-Here's what I'm currently working on:
-
-- 🏯 [Goshuin Atlas](https://goshuinatlas.com) – An iOS app to explore temples and shrines in Japan and collect goshuin digitally
-- 🤖 [llms.txt hub](https://thedaviddias.com/projects/llms-txt-hub) - Standardizing LLM configurations for web projects
-- 📚 [Start & Ship and Grow and Thrive](https://practicaljuniordevs.com) - A serie of books to help junior developers navigate their career journey
-- 🔗 [Links Base](https://thedaviddias.com/projects/links-base) - A modern approach to managing and sharing bookmarks
-
-Want to collaborate or learn more about any of these projects? Feel free to reach out!
+**What makes me different:** I don't just build with these technologies - I use them to create bridges between cultures, solve real human problems, and demonstrate that technical skills can serve broader missions.
 
 ## 📝 Latest Content
 
@@ -92,8 +119,17 @@ Want to collaborate or learn more about any of these projects? Feel free to reac
   </a>
 </p>
 
-- 💬 Ask me about **frontend development**, **accessibility**, or **open source**
-- 📝 I regularly write articles on [my newsletter](https://thedaviddias.substack.com)
-- 🌱 I'm currently exploring **AI/ML in frontend development** and building iOS mobile apps using Swift
+- 💬 Ask me about **multi-passionate career development**, **cultural-technology integration**, or **building authentic businesses**
+- 📝 I regularly share insights on [my newsletter](https://thedaviddias.substack.com) about integrated career development
+- 🌱 I'm currently exploring **how to help multi-passionate professionals thrive** and building **apps that honor cultural traditions**
+- 🎯 **Looking to connect with:** Other multi-passionate professionals, cultural bridge-builders, and people building businesses around their complete identity
 
-🔗 Check out my [personal website](https://ddias.link/blog) for more content and ways to connect!
+**Find me elsewhere:**
+- 🌐 [Personal Website](link) - Deep dives into multi-passionate living
+- 📺 [YouTube](link) - Journey from employee to entrepreneur
+- 💼 [LinkedIn](link) - Professional insights and career development
+- 🐦 [Twitter/X](link) - Quick thoughts and community building
+
+---
+
+*"The most innovative solutions come from connecting diverse perspectives and interests. Let's build something that matters to you, not just what the market tells you to build."*
