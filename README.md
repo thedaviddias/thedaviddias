@@ -77,7 +77,8 @@ I believe the future belongs to professionals who can bridge cultures, technolog
 - 📱 Goshuin Atlas - An app that respects Japanese cultural traditions
 - 📚 "Practical Guides for Multi-Passionate Professionals" book series
 - 🎥 Content about integrated career development
-- 🌐 David Dias Digital - Platform for multi-passionate resources
+- 🧩 David Dias Digital - Platform for multi-passionate resources
+- 🌐 [David Dias World](https://daviddias.world) - The global network that connects all David Dias... in the world!
 
 ## 💻 Tech I Love Working With
 
