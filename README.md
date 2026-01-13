@@ -34,7 +34,7 @@ After 15 years in frontend development, I'm now building **David Dias Digital** 
 * 🎥 Documenting the journey from **employee to entrepreneur**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedaviddias&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-thedaviddias.vercel.app/api?username=thedaviddias&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub stats" />
 </p>
 
 ## 🚀 Featured Projects
@@ -42,10 +42,10 @@ After 15 years in frontend development, I'm now building **David Dias Digital** 
 ### Developer Tools & Resources
 <p align="center">
   <a href="https://github.com/thedaviddias/Front-End-Checklist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=Front-End-Checklist&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats-thedaviddias.vercel.app/api/pin/?username=thedaviddias&repo=Front-End-Checklist&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/thedaviddias/llms-txt-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=llms-txt-hub&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats-thedaviddias.vercel.app/api/pin/?username=thedaviddias&repo=llms-txt-hub&theme=transparent&hide_border=true" />
   </a>
 </p>
 
@@ -56,10 +56,10 @@ After 15 years in frontend development, I'm now building **David Dias Digital** 
 ### Community & Resources
 <p align="center">
      <a href="https://github.com/thedaviddias/ux-patterns-for-developers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=ux-patterns-for-developers&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats-thedaviddias.vercel.app/api/pin/?username=thedaviddias&repo=ux-patterns-for-developers&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/thedaviddias/indie-dev-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=indie-dev-toolkit&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats-thedaviddias.vercel.app/api/pin/?username=thedaviddias&repo=indie-dev-toolkit&theme=transparent&hide_border=true" />
   </a>
 </p>
 
