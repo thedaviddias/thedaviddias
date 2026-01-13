@@ -96,11 +96,11 @@ I believe the future belongs to professionals who can bridge cultures, technolog
 
 ### Personal Blog
 <!-- BLOG:START -->
-- [llms.txt hub](https://thedaviddias.com/projects/llms-txt-hub)
+- [Goshuin Atlas](https://thedaviddias.com/projects/goshuin-atlas)
+- [llms.txt Hub](https://thedaviddias.com/projects/llms-txt-hub)
 - [UX Patterns for Developers](https://thedaviddias.com/projects/ux-patterns-developers)
-- [Links Base](https://thedaviddias.com/projects/links-base)
 - [Indie Dev Toolkit](https://thedaviddias.com/projects/indie-dev-toolkit)
-- [Erreur 200](https://thedaviddias.com/projects/erreur-200)
+- [Links Base](https://thedaviddias.com/projects/links-base)
 <!-- BLOG:END -->
 
 ### Medium Articles
