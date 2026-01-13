@@ -28,7 +28,7 @@ I'm **David Dias** (he/him), I'm a French-born 🇫🇷 Canadian 🇨🇦 with P
 
 After 15 years in frontend development, I'm now building **David Dias Digital** - creating resources, tools, and community for multi-passionate professionals who want to integrate their complete identity into their careers.
 
-* 🌟 **98.3K+ GitHub stars** across projects serving developers worldwide
+* 🌟 **100.1K+ GitHub stars** across projects serving developers worldwide
 * 🏯 Building apps that bridge **culture & technology**
 * 📚 Writing guides for **multi-passionate professionals**
 * 🎥 Documenting the journey from **employee to entrepreneur**
