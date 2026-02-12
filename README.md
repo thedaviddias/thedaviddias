@@ -105,11 +105,11 @@ I believe the future belongs to professionals who can bridge cultures, technolog
 
 ### Medium Articles
 <!-- MEDIUM:START -->
+- [I’m Profiting From OpenClaw](https://thedaviddias.medium.com/im-profiting-from-openclaw-760fa9478bb6?source=rss-7ae18a1470a9------2)
+- [I Ditched My AI Agent Dashboard for Obsidian](https://thedaviddias.medium.com/i-ditched-my-ai-agent-dashboard-for-obsidian-82d43a3ae952?source=rss-7ae18a1470a9------2)
 - [The llms.txt Guide You Need for Your Next Project](https://thedaviddias.medium.com/the-llms-txt-guide-you-need-for-your-next-project-f9f55a237bae?source=rss-7ae18a1470a9------2)
 - [Getting Started with llms.txt](https://thedaviddias.medium.com/getting-started-with-llms-txt-226df8012257?source=rss-7ae18a1470a9------2)
 - [Beyond User Testing: Leveraging Frontend Experience](https://thedaviddias.medium.com/beyond-user-testing-leveraging-frontend-experience-d694e9915960?source=rss-7ae18a1470a9------2)
-- [How Front-End Developers, Web and UX/UI Designers could better collaborate together?](https://thedaviddias.medium.com/how-front-end-developers-web-and-ux-ui-designers-could-better-collaborate-together-8fb63edd0694?source=rss-7ae18a1470a9------2)
-- [I launched a new podcast called “World Web Stories” and I want you all to be part of it!](https://thedaviddias.medium.com/i-launched-a-new-podcast-called-world-web-stories-and-i-want-you-all-to-be-part-of-it-b8b91106693?source=rss-7ae18a1470a9------2)
 <!-- MEDIUM:END -->
 
 ## 🤝 Let's Connect
