@@ -24,13 +24,12 @@
 
 I'm **David Dias** (he/him), I'm a French-born 🇫🇷 Canadian 🇨🇦 with Portuguese 🇵🇹 heritage living in Toronto, Canada.
 
-**Former Staff Frontend Engineer exploring multi-passionate career development.** I help people in tech who, like me, refuse to be put in a professional box.
+**Former Staff Frontend Engineer exploring AI and building tools for everyone.** I help people in tech and wanted to better understand current innovations with AI.
 
-After 15 years in frontend development, I'm now building **David Dias Digital** - creating resources, tools, and community for multi-passionate professionals who want to integrate their complete identity into their careers.
+After 15 years in frontend development, I'm now building **David Dias Digital** - creating resources, tools, and communities around topics I'm passionate about.
 
 * 🌟 **100.1K+ GitHub stars** across projects serving developers worldwide
 * 🏯 Building apps that bridge **culture & technology**
-* 📚 Writing guides for **multi-passionate professionals**
 * 🎥 Documenting the journey from **employee to entrepreneur**
 
 <p align="center">
@@ -51,6 +50,7 @@ After 15 years in frontend development, I'm now building **David Dias Digital** 
 
 ### Cultural-Technology Integration
 - 🏯 **[Goshuin Atlas](https://goshuinatlas.com)** - iOS app bridging Japanese temple traditions with modern technology
+- **[Goshuin.com](https://goshuin.com)** - Website version of my iOS app about temples and shrines in Japan
 - 📚 **[Practical Guides Series](https://practicaljuniordevs.com/)** - A serie of books to help junior developers navigate their career journey
 
 ### Community & Resources
