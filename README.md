@@ -50,7 +50,7 @@ After 15 years in frontend development, I'm now building **David Dias Digital** 
 
 ### Cultural-Technology Integration
 - 🏯 **[Goshuin Atlas](https://goshuinatlas.com)** - iOS app bridging Japanese temple traditions with modern technology
-- **[Goshuin.com](https://goshuin.com)** - Website version of my iOS app about temples and shrines in Japan
+- 🇯🇵 **[Goshuin.com](https://goshuin.com)** - Website version of my iOS app about temples and shrines in Japan
 
 ### Community & Resources
 <p align="center">
