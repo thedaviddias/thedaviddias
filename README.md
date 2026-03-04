@@ -51,7 +51,6 @@ After 15 years in frontend development, I'm now building **David Dias Digital** 
 ### Cultural-Technology Integration
 - 🏯 **[Goshuin Atlas](https://goshuinatlas.com)** - iOS app bridging Japanese temple traditions with modern technology
 - **[Goshuin.com](https://goshuin.com)** - Website version of my iOS app about temples and shrines in Japan
-- 📚 **[Practical Guides Series](https://practicaljuniordevs.com/)** - A serie of books to help junior developers navigate their career journey
 
 ### Community & Resources
 <p align="center">
@@ -66,11 +65,9 @@ After 15 years in frontend development, I'm now building **David Dias Digital** 
 ## All my current projects
 - 🤖 [AI vs Human](https://aivshuman.dev) - Analyze any GitHub repository to see the real breakdown of commits by humans, AI assistants, and automated bots.
 - 🧩 [David Dias Digital](https://daviddias.digital) - My professional website
-- 📱 [Goshuin Atlas](https://goshuinatlas.com) - An app that respects Japanese cultural traditions
-- 🇯🇵 [Goshuin.com](https://goshuin.com) - The web version of Goshuin Atlas with temples, shrines, goshuin, pilgrimages from Japan
 - 🔎 [llms.txt Hub](https://llmstxthub.com) - The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard
 - 🤖 [souls directory](https://souls.directory) - Curated directory of SOUL.md personality templates for OpenClaw agents
-- 📚 [Book series for Junior Developers](https://practicaljuniordevs.com)
+- 📚 [Practical Guides Series](https://practicaljuniordevs.com/) - A serie of books to help junior developers navigate their career journey
 - 🌐 [David Dias World](https://daviddias.world) - The global network that connects all David Dias... in the world!
 
 ## 💻 Tech I Love Working With
