@@ -63,21 +63,14 @@ After 15 years in frontend development, I'm now building **David Dias Digital** 
   </a>
 </p>
 
-## 🌈 Multi-Passionate Journey
-
-I believe the future belongs to professionals who can bridge cultures, technologies, and disciplines - not just those who specialize in one narrow field.
-
-**What I'm exploring:**
-- 🎯 **Career Integration** - How to build careers that honor all your interests
-- 🌍 **Cultural-Technology Bridges** - Creating respectful innovation
-- 🚀 **Employee to Entrepreneur** - Documenting the real journey
-- 🤝 **Community Building** - Connecting like-minded multi-passionate professionals
-
-**Currently working on:**
-- 📱 Goshuin Atlas - An app that respects Japanese cultural traditions
-- 📚 "Practical Guides for Multi-Passionate Professionals" book series
-- 🎥 Content about integrated career development
-- 🧩 David Dias Digital - Platform for multi-passionate resources
+## All my current projects
+- 🤖 [AI vs Human](https://aivshuman.dev) - Analyze any GitHub repository to see the real breakdown of commits by humans, AI assistants, and automated bots.
+- 🧩 [David Dias Digital](https://daviddias.digital) - My professional website
+- 📱 [Goshuin Atlas](https://goshuinatlas.com) - An app that respects Japanese cultural traditions
+- 🇯🇵 [Goshuin.com](https://goshuin.com) - The web version of Goshuin Atlas with temples, shrines, goshuin, pilgrimages from Japan
+- 🔎 [llms.txt Hub](https://llmstxthub.com) - The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard
+- 🤖 [souls directory](https://souls.directory) - Curated directory of SOUL.md personality templates for OpenClaw agents
+- 📚 [Book series for Junior Developers](https://practicaljuniordevs.com)
 - 🌐 [David Dias World](https://daviddias.world) - The global network that connects all David Dias... in the world!
 
 ## 💻 Tech I Love Working With
