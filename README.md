@@ -63,24 +63,13 @@ After 15 years in frontend development, I'm now building **David Dias Digital** 
 </p>
 
 ## All my current projects
-- 🤖 [AI vs Human](https://aivshuman.dev) - Analyze any GitHub repository to see the real breakdown of commits by humans, AI assistants, and automated bots.
-- 🧩 [David Dias Digital](https://daviddias.digital) - My professional website
-- 🔎 [llms.txt Hub](https://llmstxthub.com) - The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard
-- 🤖 [souls directory](https://souls.directory) - Curated directory of SOUL.md personality templates for OpenClaw agents
-- 📚 [Practical Guides Series](https://practicaljuniordevs.com/) - A serie of books to help junior developers navigate their career journey
-- 🌐 [David Dias World](https://daviddias.world) - The global network that connects all David Dias... in the world!
-
-## 💻 Tech I Love Working With
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />&nbsp;
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />&nbsp;
-  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
-</p>
-
-**What makes me different:** I don't just build with these technologies - I use them to create bridges between cultures, solve real human problems, and demonstrate that technical skills can serve broader missions.
+- [llms.txt Hub](https://llmstxthub.com) - The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard
+- [Skill Check](https://github.com/thedaviddias/skill-check) - Linter for agent skill files
+- [AI vs Human](https://aivshuman.dev) - Analyze any GitHub repository to see the real breakdown of commits by humans, AI assistants, and automated bots.
+- [souls directory](https://souls.directory) - Curated directory of SOUL.md personality templates for OpenClaw agents
+- [Practical Guides Series](https://practicaljuniordevs.com/) - A serie of books to help junior developers navigate their career journey
+- [David Dias Digital](https://daviddias.digital) - My professional website
+- [David Dias World](https://daviddias.world) - The global network that connects all David Dias... in the world!
 
 ## 📝 Latest Content
 
