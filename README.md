@@ -58,7 +58,6 @@ For 15+ years, I have worked across frontend architecture, accessibility, design
 | Project | What it is | Why it matters |
 | --- | --- | --- |
 | **[Front-End Checklist v2](https://frontendchecklist.io)** | Open-source frontend quality system for humans and AI agents | Turns accessibility, performance, SEO, security, testing, privacy, and i18n practices into practical review workflows |
-| **[Stackmatch](https://stackmatch.dev)** | Developer discovery through real GitHub dependency fingerprints | Finds people and organizations who build with similar stacks instead of relying on bios, follower counts, or keyword search |
 | **[llms.txt Hub](https://llmstxthub.com)** | Directory for AI-ready documentation and `llms.txt` projects | Helps developers and agents find documentation designed for AI-assisted work |
 | **[UX Patterns for Developers](https://uxpatterns.dev)** | Practical UI pattern guidance for developers | Helps developers choose the right interface pattern before implementation quality review |
 
@@ -69,7 +68,6 @@ These are the current David Dias Digital builds I am putting real product energy
 | Product | Status | Focus |
 | --- | --- | --- |
 | **[MouseViz](https://mouseviz.com)** | Pre-launch | macOS mouse heatmaps, cursor trails, click analysis, session replay, and UX research workflows |
-| **[Radarboard](https://radarboard.app)** | Desktop beta | Local-first operating board for revenue, product analytics, reliability, releases, growth, and roadmap signals |
 | **[Goshuin Atlas](https://goshuinatlas.com)** | Public | iOS app bridging Japanese temple traditions with modern technology |
 | **[Goshuin.com](https://goshuin.com)** | Public | Web companion for discovering temples and shrines in Japan |
 
@@ -79,7 +77,7 @@ These are the current David Dias Digital builds I am putting real product energy
 | --- | --- |
 | **Frontend quality and developer tools** | [Front-End Checklist](https://frontendchecklist.io), [UX Patterns for Developers](https://uxpatterns.dev), [Skill Check](https://github.com/thedaviddias/skill-check) |
 | **AI and agent workflows** | [llms.txt Hub](https://llmstxthub.com), [AI vs Human](https://aivshuman.dev), [souls directory](https://souls.directory) |
-| **Product operations and macOS** | [Radarboard](https://radarboard.app), [MouseViz](https://mouseviz.com) |
+| **Product operations and macOS** | [MouseViz](https://mouseviz.com) |
 | **Culture and travel technology** | [Goshuin Atlas](https://goshuinatlas.com), [Goshuin.com](https://goshuin.com) |
 | **Learning and independent work** | [Practical Guides Series](https://thedaviddias.com/books), [Indie Dev Toolkit](https://github.com/thedaviddias/indie-dev-toolkit), [David Dias Digital](https://daviddias.digital), [David Dias World](https://daviddias.world) |
 
