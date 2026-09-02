@@ -46,14 +46,14 @@ For 15+ years, I have worked across frontend architecture, accessibility, design
 
 ## Selected Work
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/thedaviddias/Front-End-Checklist">
     <img src="https://github-readme-stats-thedaviddias.vercel.app/api/pin/?username=thedaviddias&repo=Front-End-Checklist&theme=transparent&hide_border=true" alt="Front-End Checklist repository card" />
   </a>
   <a href="https://github.com/thedaviddias/stackmatch">
     <img src="https://github-readme-stats-thedaviddias.vercel.app/api/pin/?username=thedaviddias&repo=stackmatch&theme=transparent&hide_border=true" alt="Stackmatch repository card" />
   </a>
-</p>
+</p> -->
 
 | Project | What it is | Why it matters |
 | --- | --- | --- |
